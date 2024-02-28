@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.btn-outline-primary:hover {
+  background-color: #79dc90 !important;
+  color: black;
+}
+
+.img-thumbnail {
+  width: 100%;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.senterred {
+  min-height: 50vh;
+}
+.warnachev {
+  color: black;
+}
+.img-about {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+}
+.heheaa {
+  padding: 0 10rem 0 10rem;
+}
+
+#div2 {
+  display: none;
+}
+
+#div3 {
+  display: none;
+}
+
+.imgcard {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+/* footer */
+.footer {
+  height: 85vh;
+}
+
+/* footer_top */
+.footer_top {
+  height: 50vh;
+  background-color: #00a3a8;
+}
+
+.footer-topLogo {
+  width: 20rem;
+  height: auto;
+}
+
+/* footer_middle */
+.footer_middle {
+  background-color: #005f63;
+  color: white;
+  height: 20vh;
+}
+
+.footer-h1 {
+  font-weight: 300;
+}
+
+/* medsos-item */
+.medsos-item {
+  width: 50px;
+  height: 50px;
+  background-color: #00a3a8;
+  border-radius: 25px;
+}
+
+.medsos-item:not(:last-child) {
+  margin-right: 1rem;
+}
+
+/* footer_bottom */
+.footer_bottom {
+  height: 10vh;
+}
+
+.footer_middle-txt {
+  font-size: 1.25em;
+  max-width: 30rem;
+  width: auto;
+  text-align: justify;
+  word-wrap: break-word;
+}
+
+.footer_bottom {
+  background-color: #626262;
+  font-size: 1.3em;
+}
+/* icon */
+.icon {
+  font-size: 2em;
+}
